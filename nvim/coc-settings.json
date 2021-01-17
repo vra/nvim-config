@@ -1,0 +1,34 @@
+{
+  "coc.preferences.hoverTarget": "echo",
+  "coc.preferences.triggerSignatureHelp": true,
+  "coc.preferences.triggerAfterInsertEnter": false,
+  "coc.preferences.formatOnType": false,
+  "coc.preferences.jumpCommand": "tabe",
+  // "coc.preferences.watchmanPath": "",
+ 
+  "suggest.enablePreview": true,
+  "suggest.autoTrigger": "always",
+  "suggest.triggerCompletionWait": 100,
+  "suggest.minTriggerInputLength": 0,
+  "suggest.preferCompleteThanJumpPlaceholder": true,
+  "suggest.timeout": 5000,
+  "suggest.fixInsertedWord": false,
+  "suggest.triggerAfterInsertEnter": false,
+  "suggest.noselect": false,
+  "suggest.acceptSuggestionOnCommitCharacter": false,
+  "suggest.keepCompleteopt": true,
+
+  "coc.preferences.colorSupport": true,
+  "coc.preferences.snippetStatusText": false,
+  "coc.preferences.diagnostic.enable": false,
+
+  "pyls.commandPath": "pyls",
+  "pyls.enable": true,
+  "pyls.plugins.jedi_completion.include_params": false,
+  "pyls.plugins.preload.modules": ["numpy", "megskull.opr.all"],
+  "pyls.plugins.pyflakes.enabled": false,
+  "pyls.plugins.pycodestyle.enabled": false,
+  "pyls.plugins.jedi_definition.follow_imports": true
+
+}
+// vim: ts=2 sts=2 conceallevel=0 expandtab

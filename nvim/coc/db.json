@@ -1,0 +1,12 @@
+{
+  "extension": {
+    "coc-json": {
+      "ts": 1551953500799,
+      "disabled": false
+    },
+    "coc-pyls": {
+      "ts": 1552290274762
+    }
+  },
+  "lastUpdate": 1572394674752
+}
